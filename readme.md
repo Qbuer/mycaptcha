@@ -35,8 +35,9 @@ dataset4 +生成50000张 +5000张python验证码
 
 # 资料
 
-各种语言常用验证码生成库 https://blog.csdn.net/qq_41895190/article/details/102527694
+[各种语言常用验证码生成库](https://blog.csdn.net/qq_41895190/article/details/102527694)
 
-# 网络结构 
-resnet  https://www.jianshu.com/p/085f4c8256f1
-crnn https://zhuanlan.zhihu.com/p/26078299
+# 网络结构  
+[resnet](https://www.jianshu.com/p/085f4c8256f1)  
+[crnn](https://zhuanlan.zhihu.com/p/26078299)  
+[EfficientNet](https://blog.csdn.net/qq_37541097/article/details/114434046)
